@@ -1,0 +1,13 @@
+.titleContainer {
+  background-color: teal;
+}
+
+.siteTitle {
+  color: white;
+  font-family: cursive;
+  padding: 1%;
+}
+
+.imageContainer {
+  margin: 0 1%;
+}
